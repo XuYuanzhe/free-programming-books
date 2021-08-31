@@ -150,12 +150,13 @@
 ### Golang
 
 * [Golang](http://www.vittal.it/wp-content/uploads/2019/01/golang.pdf) - V.Albertoni (PDF)
+* [The Little Go Book](https://github.com/francescomalatesta/the-little-go-book-ita) - Karl Seguin, Francesco Malatesta ([HTML](https://github.com/francescomalatesta/the-little-go-book-ita/blob/master/it/go.md))
 
 
 ### Java
 
 * [Appendici del manuale di Java 9](https://www.hoepli.it/editore/hoepli_file/download_pub/978-88-203-8302-2_Java9-Appendici.pdf) - C. De Sio Cesari (PDF)
-* [Esercitazioni di Spring Boot](https://www.emmecilab.net/esercitazioni-di-spring-boot-0-come-impostare-un-progetto/) - M. Cicolella (HTML)
+* [Esercitazioni di Spring Boot](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-0-come-impostare-un-progetto/) - M. Cicolella (HTML)
 * [Esercizi del manuale di Java 9](https://www.hoepli.it/editore/hoepli_file/download_pub/978-88-203-8302-2_java9-esercizi.pdf) - C. De Sio Cesari (PDF)
 * [Esercizi di Java Avanzato](http://wpage.unina.it/m.faella/Didattica/LpII/archivio.pdf) - M. Faella  (PDF)
 * [Fondamenti di informatica - Java - Eserciziario](http://www.dei.unipd.it/~filira/fi/etc/eserciziario.pdf) (PDF)

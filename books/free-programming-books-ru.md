@@ -72,7 +72,7 @@
 ### 0 - Language Agnostic
 
 * [3D-моделирование в Blender](https://younglinux.info/blender.php) - C. Шапошникова
-* [Введение в структуры и алгоритмы обработки данных](http://dsabook.mkurnosov.net) - Михаил Курносов (PDF)
+* [Введение в методы машинной обработки данных](https://mkurnosov.net/docs/dsa-book-2020.pdf) - Курносов М.Г. (PDF)
 * [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В. (PDF)
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
@@ -203,7 +203,7 @@
 * [Руководство по языку Go](https://metanit.com/go/tutorial) - Евгений Попов
 * [Эффективный Go](https://github.com/Konstantin8105/Effective_Go_RU)
 * [Go в примерах](https://gobyexample.ru)
-* [The Little Go Book (перевод)](https://sefus.ru/little-go-book)
+* [The Little Go Book (перевод)](https://sefus.ru/little-go-book) - Karl Seguin, Roman Dolgolopov, Evgeny Popov, Alexander Dunin ([HTML](https://github.com/sefus/the-little-go-book/blob/master/ru/go.md), [EPUB](https://sefus.ru/dl/go.epub))
 
 
 ### Haskell
